@@ -1,7 +1,7 @@
 ###OSI Squash ranking 05:10:2015
 Trend = ranting change last 20 matches
 
-##Name:                Rank:   Trend:
+####Name:              Rank:   Trend:
 Hero                 1649.0  +49.0
 Her2o                1643.2  +43.2
 Wol3verin            1641.6  +41.6
