@@ -3,3 +3,5 @@ Trend = ranting change last 20 matches
 
 |Name:              |Rank:   |Trend:  |
 |:------------------|:-------|:-------|
+Superman             |1616.0 |+16.0
+Batman               |1584.0 |-16.0
