@@ -1,7 +1,8 @@
 ###OSI Squash ranking 06.10.2015
 Trend = ranting change last 20 matches
 
-#####Current ratings|Name:              |Rank:   |Trend: |
+#####Current ratings
+|Name:              |Rank:   |Trend: |
 |:------------------|:-------|:------|
 |Magnus             | 1627.5 | +27.5|
 |Temour             | 1596.0 | -4.0|
