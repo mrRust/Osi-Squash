@@ -1,5 +1,3 @@
-###OSI Squash ranking 06.10.2015
-Trend = ranting change last 20 matches
 
 |Name:              |Rank:   |Trend: |
 |:------------------|:-------|:------|
