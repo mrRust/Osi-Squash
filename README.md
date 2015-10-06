@@ -3,10 +3,14 @@ Trend = ranting change last 20 matches
 
 #####Current ratings|Name:              |Rank:   |Trend: |
 |:------------------|:-------|:------|
+|Magnus             | 1627.5 | +27.5|
+|Temour             | 1596.0 | -4.0|
+|Janis              | 1591.5 | -8.5|
+|Jonas              | 1585.0 | -15.0|
 
 #####Last 100 matches|Date:              |Win:   |Loss: |Antall| 
 |:------------------|:-------|:------|:------|
-|Janis              | 1591.5 | -8.5|
+|Jonas              | 1585.0 | -15.0|
 | 10/5/2015 23:05:19 | Jonas +8.0 | Temour 8.0| Best av 1 |
 | 10/5/2015 23:05:37 | Temour +8.0 | Jonas 8.0| Best av 1 |
 | 10/5/2015 23:06:09 | Temour +8.0 | Jonas 8.0| Best av 1 |
