@@ -12,6 +12,7 @@ Trend = ranting change last 20 matches
 #####Last 100 matches
 |Date:              |Win:   |Loss: |Antall| 
 |:------------------|:-------|:------|:------|
+| 10/5/2015 23:05:19 | Jonas +8.0 | Temour -8.0| Best av 1 |
 | 10/6/2015 10:02:45 | Magnus +12.0 | Temour -12.0| Best av 3 |
 | 10/5/2015 23:07:34 | Jonas +8.5 | Janis -8.5| Best av 1 |
 | 10/5/2015 23:07:01 | Magnus +7.5 | Jonas -7.5| Best av 1 |
