@@ -1,19 +1,24 @@
-###OSI Squash ranking 19.10.2015 09:00
+###OSI Squash ranking 19.10.2015 22:17
 Trend = ranting change last 5 matches
 
 #####Current ratings
 |Name:              |Rank:   |Trend: |Total matches
 |:------------------|:-------|:------|:------|
-|Jonas              | 1648.2 | +48.4| 12 |
+|Jonas              | 1680.1 | +41.9| 16 |
 |Magnus             | 1644.3 | +28.8| 7 |
 |Janis              | 1591.5 | -8.5| 1 |
-|Hans               | 1574.9 | -25.1| 3 |
+|Daniel             | 1582.7 | -17.3| 2 |
 |Temour             | 1573.4 | -34.6| 8 |
 |Even               | 1567.6 | -32.4| 5 |
+|Hans               | 1560.3 | -39.7| 5 |
 
 #####Last 100 matches
 |Date:              |Win:   |Loss: |Match length| 
 |:------------------|:-------|:------|:------|
+| 10/19/2015 19:13:36 | Jonas +8.2 | Daniel -8.2| Best of 3 |
+| 10/19/2015 19:13:21 | Jonas +9.1 | Daniel -9.1| Best of 3 |
+| 10/19/2015 19:13:02 | Jonas +5.4 | Hans -5.4| Best of 1 |
+| 10/19/2015 19:12:50 | Jonas +9.1 | Hans -9.1| Best of 3 |
 | 10/19/2015 9:00:09 | Jonas +10.1 | Hans -10.1| Best of 3 |
 | 10/19/2015 8:59:55 | Jonas +7.5 | Hans -7.5| Best of 1 |
 | 10/9/2015 9:32:39 | Jonas +7.5 | Hans -7.5| Best of 1 |
