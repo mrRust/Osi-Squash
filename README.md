@@ -1,4 +1,4 @@
-###OSI Squash ranking 21.10.2015 23:35
+###OSI Squash ranking 22.10.2015 09:48
 Trend = ranting change last 5 matches
 
 #####Current ratings
