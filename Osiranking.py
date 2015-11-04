@@ -29,7 +29,7 @@ class Match(object):
 
 	
 	def info(self):
-		return "| %s | %s +%2.1f | %s -%2.1f| %s |" %(self.time, self.win.name, self.ranking, self.loss.name, self.ranking, self.beststring) 
+		return "| %s | %s +%2.1f | %s -%2.1f| %s |" %(self.time.split()[0], self.win.name, self.ranking, self.loss.name, self.ranking, self.beststring) 
 
 
 class Player(object):
@@ -62,6 +62,33 @@ class Player(object):
 		self.progress.append(self.ranking-old)
 		other.progress.append(other.ranking-otherold)
 		matches.append(Match(self, other, change, date, multi, beststring))
+
+	def winScore(self, other, date, scoreSelf, scoreOther):
+		diff = self.ranking - other.ranking
+		for i in ELO:
+			if diff < i[0]:
+				expected = last
+				
+				break
+			last = i[1]
+
+		old = self.ranking
+		otherold = other.ranking
+
+		numMatches = scoreSelf + scoreOther
+		actual = float(scoreSelf) / float(scoreOther)
+
+		change = 30*numMatches*(actual-expected)
+		self.ranking = old + change
+		other.ranking = otherold - change
+		
+		beststring = "" + str(scoreSelf) + " - " +  str(scoreOther)
+
+		dates = date.split(" ")
+		self.progress.append(self.ranking-old)
+		other.progress.append(other.ranking-otherold)
+		matches.append(Match(self, other, change, date, actual, beststring))
+
 
 	def info(self):
 		trend = 0
@@ -133,18 +160,26 @@ for line in values:
 	if line[6] == "":
 		bestof = 1
 		line[6] = "Best of 1"
-	if line[6] == "Best of 1":
+		p1.win(p2, line[0], bestof, line[6])
+	elif line[6] == "Best of 1":
+		p1.win(p2, line[0], bestof, line[6])
 		bestof = 1
-	if line[6] == "Best of 3":
+	elif line[6] == "Best of 3":
 		bestof = 1.5
-	if line[6] == "Best of 5":
+		p1.win(p2, line[0], bestof, line[6])
+	elif line[6] == "Best of 5":
 		bestof = 2
-	if line[6] == "Best of 7":
+		p1.win(p2, line[0], bestof, line[6])
+	elif line[6] == "Best of 7":
 		bestof = 2.5
-	if line[6] == "Best of 9":
+		p1.win(p2, line[0], bestof, line[6])
+	elif line[6] == "Best of 9":
 		bestof = 3
+		p1.win(p2, line[0], bestof, line[6])
+	else:
+		p1.winScore(p2, line[0], int(line[6]), int(line[7]))
 	
-	p1.win(p2, line[0], bestof, line[6])
+	
 	
 
 playerlist.sort(key=lambda x: x.ranking, reverse=True)
@@ -157,13 +192,13 @@ README.write("###OSI Squash ranking %s\n" %date)
 README.write("Trend = ranting change last 5 matches\n\n")
 
 README.write("#####Current ratings\n")
-README.write("|Name:              |Rank:   |Trend: |Total matches\n")
+README.write("|Name:              |Rank:   |Trend: |Total  |\n")
 README.write("|:------------------|:-------|:------|:------|\n")
 for player in playerlist:
 	README.write(player.info()+ "\n")
 
 README.write("\n#####Last 100 matches\n")
-README.write("|Date:              |Win:   |Loss: |Match length| \n")
+README.write("|Date:              |Win:   |Loss: |Length| \n")
 README.write("|:------------------|:-------|:------|:------|\n")
 
 match_print = 100

@@ -1,45 +1,48 @@
-###OSI Squash ranking 04.11.2015 11:32
+###OSI Squash ranking 04.11.2015 12:41
 Trend = ranting change last 5 matches
 
 #####Current ratings
 |Name:              |Rank:   |Trend: |Total  |
 |:------------------|:-------|:------|:------|
-|Jonas              | 1651.7 | -15.5| 19 |
-|Magnus             | 1644.3 | +28.8| 7 |
-|Daniel             | 1596.3 | +15.5| 7 |
-|Emma               | 1592.8 | -7.2| 2 |
-|Janis              | 1591.5 | -8.5| 1 |
-|Hans               | 1582.3 | -17.7| 5 |
-|Temour             | 1573.4 | -34.6| 8 |
-|Even               | 1567.6 | -32.4| 5 |
+|Jonas              | 1672.1 | +0.0 | 19 |
+|Magnus             | 1630.7 | +30.7| 7 |
+|Janis              | 1600.0 | +0.0 | 1 |
+|Superman           | 1600.0 | +0.0 | 1 |
+|Batman             | 1600.0 | +0.0 | 1 |
+|Emma               | 1594.2 | -5.8| 2 |
+|Hans               | 1588.2 | -11.8| 5 |
+|Daniel             | 1580.8 | +0.0 | 7 |
+|Even               | 1567.8 | -32.2| 5 |
+|Temour             | 1566.2 | -33.8| 8 |
 
 #####Last 100 matches
 |Date:              |Win:   |Loss: |Length| 
 |:------------------|:-------|:------|:------|
+| 11/4/2015 | Superman +0.0 | Batman -0.0| 4 - 8 |
 | 11/1/2015 | Hans +29.8 | Emma -29.8| Best of 9 |
-| 11/1/2015 | Emma +22.6 | Hans -22.6| Best of 9 |
-| 11/1/2015 | Jonas +6.7 | Daniel -6.7| Best of 1 |
-| 11/1/2015 | Jonas +7.5 | Daniel -7.5| Best of 1 |
-| 11/1/2015 | Daniel +9.3 | Jonas -9.3| Best of 1 |
-| 11/1/2015 | Daniel +9.9 | Jonas -9.9| Best of 1 |
-| 11/1/2015 | Daniel +10.6 | Jonas -10.6| Best of 1 |
+| 11/1/2015 | Emma +24.0 | Hans -24.0| Best of 9 |
+| 11/1/2015 | Jonas +0.0 | Daniel -0.0| Best of 1 |
+| 11/1/2015 | Jonas +0.0 | Daniel -0.0| Best of 1 |
+| 11/1/2015 | Daniel +0.0 | Jonas -0.0| Best of 1 |
+| 11/1/2015 | Daniel +0.0 | Jonas -0.0| Best of 1 |
+| 11/1/2015 | Daniel +0.0 | Jonas -0.0| Best of 1 |
 | 10/19/2015 | Jonas +9.1 | Daniel -9.1| Best of 3 |
 | 10/19/2015 | Jonas +10.1 | Daniel -10.1| Best of 3 |
-| 10/19/2015 | Jonas +6.1 | Hans -6.1| Best of 1 |
-| 10/19/2015 | Jonas +11.3 | Hans -11.3| Best of 3 |
+| 10/19/2015 | Jonas +0.0 | Hans -0.0| Best of 1 |
+| 10/19/2015 | Jonas +10.1 | Hans -10.1| Best of 3 |
 | 10/9/2015 | Jonas +7.5 | Hans -7.5| Best of 1 |
-| 10/7/2015 | Jonas +11.3 | Even -11.3| Best of 3 |
-| 10/7/2015 | Jonas +12.0 | Temour -12.0| Best of 3 |
-| 10/7/2015 | Jonas +14.9 | Magnus -14.9| Best of 3 |
-| 10/7/2015 | Magnus +9.1 | Even -9.1| Best of 3 |
+| 10/7/2015 | Jonas +10.1 | Even -10.1| Best of 3 |
+| 10/7/2015 | Jonas +11.3 | Temour -11.3| Best of 3 |
+| 10/7/2015 | Jonas +13.9 | Magnus -13.9| Best of 3 |
+| 10/7/2015 | Magnus +10.1 | Even -10.1| Best of 3 |
 | 10/7/2015 | Magnus +11.3 | Even -11.3| Best of 3 |
 | 10/7/2015 | Magnus +11.3 | Temour -11.3| Best of 3 |
 | 10/7/2015 | Temour +12.7 | Even -12.7| Best of 3 |
 | 10/7/2015 | Even +12.0 | Temour -12.0| Best of 3 |
 | 10/6/2015 | Magnus +12.0 | Temour -12.0| Best of 3 |
-| 10/5/2015 | Jonas +8.5 | Janis -8.5| Best of 1 |
-| 10/5/2015 | Magnus +7.5 | Jonas -7.5| Best of 1 |
-| 10/5/2015 | Magnus +8.0 | Jonas -8.0| Best of 1 |
-| 10/5/2015 | Temour +8.0 | Jonas -8.0| Best of 1 |
-| 10/5/2015 | Temour +8.0 | Jonas -8.0| Best of 1 |
-| 10/5/2015 | Jonas +8.0 | Temour -8.0| Best of 1 |
+| 10/5/2015 | Jonas +0.0 | Janis -0.0| Best of 1 |
+| 10/5/2015 | Magnus +0.0 | Jonas -0.0| Best of 1 |
+| 10/5/2015 | Magnus +0.0 | Jonas -0.0| Best of 1 |
+| 10/5/2015 | Temour +0.0 | Jonas -0.0| Best of 1 |
+| 10/5/2015 | Temour +0.0 | Jonas -0.0| Best of 1 |
+| 10/5/2015 | Jonas +0.0 | Temour -0.0| Best of 1 |
