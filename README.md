@@ -1,24 +1,24 @@
-###OSI Squash ranking 04.11.2015 12:41
+###OSI Squash ranking 04.11.2015 12:47
 Trend = ranting change last 5 matches
 
 #####Current ratings
 |Name:              |Rank:   |Trend: |Total  |
 |:------------------|:-------|:------|:------|
 |Jonas              | 1672.1 | +0.0 | 19 |
+|Batman             | 1660.0 | +60.0| 1 |
 |Magnus             | 1630.7 | +30.7| 7 |
 |Janis              | 1600.0 | +0.0 | 1 |
-|Superman           | 1600.0 | +0.0 | 1 |
-|Batman             | 1600.0 | +0.0 | 1 |
 |Emma               | 1594.2 | -5.8| 2 |
 |Hans               | 1588.2 | -11.8| 5 |
 |Daniel             | 1580.8 | +0.0 | 7 |
 |Even               | 1567.8 | -32.2| 5 |
 |Temour             | 1566.2 | -33.8| 8 |
+|Superman           | 1540.0 | -60.0| 1 |
 
 #####Last 100 matches
 |Date:              |Win:   |Loss: |Length| 
 |:------------------|:-------|:------|:------|
-| 11/4/2015 | Superman +0.0 | Batman -0.0| 4 - 8 |
+| 11/4/2015 | Superman +-60.0 | Batman --60.0| 4 - 8 |
 | 11/1/2015 | Hans +29.8 | Emma -29.8| Best of 9 |
 | 11/1/2015 | Emma +24.0 | Hans -24.0| Best of 9 |
 | 11/1/2015 | Jonas +0.0 | Daniel -0.0| Best of 1 |
