@@ -1,4 +1,4 @@
-###OSI Squash ranking 04.11.2015 13:34
+###OSI Squash ranking 04.11.2015 13:37
 Trend = ranting change last 5 matches
 
 #####Current ratings
@@ -18,31 +18,3 @@ Trend = ranting change last 5 matches
 #####Last 100 matches
 |Date              |Player 1   |Player 2 |Result| 
 |:------------------|:-------|:------|:------|
-| 11/4/2015 | Superman -160.0 | Batman -160.0| 4 - 8 |
-| 11/1/2015 | Hans 29.8 | Emma 29.8| Best of 9 |
-| 11/1/2015 | Emma 22.6 | Hans 22.6| Best of 9 |
-| 11/1/2015 | Jonas 6.7 | Daniel 6.7| Best of 1 |
-| 11/1/2015 | Jonas 7.5 | Daniel 7.5| Best of 1 |
-| 11/1/2015 | Daniel 9.3 | Jonas 9.3| Best of 1 |
-| 11/1/2015 | Daniel 9.9 | Jonas 9.9| Best of 1 |
-| 11/1/2015 | Daniel 10.6 | Jonas 10.6| Best of 1 |
-| 10/19/2015 | Jonas 9.1 | Daniel 9.1| Best of 3 |
-| 10/19/2015 | Jonas 10.1 | Daniel 10.1| Best of 3 |
-| 10/19/2015 | Jonas 6.1 | Hans 6.1| Best of 1 |
-| 10/19/2015 | Jonas 11.3 | Hans 11.3| Best of 3 |
-| 10/9/2015 | Jonas 7.5 | Hans 7.5| Best of 1 |
-| 10/7/2015 | Jonas 11.3 | Even 11.3| Best of 3 |
-| 10/7/2015 | Jonas 12.0 | Temour 12.0| Best of 3 |
-| 10/7/2015 | Jonas 14.9 | Magnus 14.9| Best of 3 |
-| 10/7/2015 | Magnus 9.1 | Even 9.1| Best of 3 |
-| 10/7/2015 | Magnus 11.3 | Even 11.3| Best of 3 |
-| 10/7/2015 | Magnus 11.3 | Temour 11.3| Best of 3 |
-| 10/7/2015 | Temour 12.7 | Even 12.7| Best of 3 |
-| 10/7/2015 | Even 12.0 | Temour 12.0| Best of 3 |
-| 10/6/2015 | Magnus 12.0 | Temour 12.0| Best of 3 |
-| 10/5/2015 | Jonas 8.5 | Janis 8.5| Best of 1 |
-| 10/5/2015 | Magnus 7.5 | Jonas 7.5| Best of 1 |
-| 10/5/2015 | Magnus 8.0 | Jonas 8.0| Best of 1 |
-| 10/5/2015 | Temour 8.0 | Jonas 8.0| Best of 1 |
-| 10/5/2015 | Temour 8.0 | Jonas 8.0| Best of 1 |
-| 10/5/2015 | Jonas 8.0 | Temour 8.0| Best of 1 |
