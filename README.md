@@ -1,19 +1,20 @@
-###OSI Squash ranking 21.01.2016 22:55
+###OSI Squash ranking 21.01.2016 22:57
 Trend = ranting change last 5 matches
 
 #####Current ratings
 |Name              |Rank   |Trend |Total  |PID|
 |:------------------|:-------|:------|:------|:--|
-|Alex               | 1730.8 | +130.8| 4 | 3.0 |
+|Alex               | 1725.1 | +125.1| 5 | 2.5 |
 |Jonas              | 1655.2 | +55.2| 5 | 2.5 |
 |Jens               | 1637.2 | +37.2| 5 | 2.5 |
-|Even               | 1605.0 | +5.0 | 4 | 3.0 |
+|Even               | 1610.7 | +10.7| 5 | 2.5 |
 |Daniel Lupp        | 1551.0 | -49.0| 5 | 2.5 |
 |Hans               | 1477.5 | -122.5| 5 | 2.5 |
 
 #####Last 100 matches
 |Date              |Player 1   |Player 2 |Result| 
 |:------------------|:-------|:------|:------|
+| 1/21/2016 | Alex -5.7 | Even +5.7| 2 - 1 |
 | 1/21/2016 | Alex +9.4 | Jonas -7.8| 2 - 1 |
 | 1/21/2016 | Alex +13.4 | Hans -9.6| 2 - 0 |
 | 1/21/2016 | Jonas +19.4 | Hans -19.4| 2 - 0 |
