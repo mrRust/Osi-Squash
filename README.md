@@ -1,4 +1,4 @@
-###OSI Squash ranking 16.02.2016 12:14
+###OSI Squash ranking 16.02.2016 21:13
 Form: http://bit.ly/1U5gJyG
 Trend = rating change last 5 matches
 PID = multiplier, it will decrease over the 15 first game
@@ -8,19 +8,20 @@ PID = multiplier, it will decrease over the 15 first game
 |:------------------|:-------|:------|:------|:--|
 |Henrik             | 1752.0 | +152.0| 5 | 2.5 |
 |Alex               | 1716.5 | +116.5| 5 | 2.5 |
-|Bår                | 1639.7 | +39.7| 4 | 3.0 |
 |Jonas              | 1626.6 | +26.6| 5 | 2.5 |
 |Jens               | 1625.3 | +25.3| 5 | 2.5 |
 |Even               | 1607.4 | +7.4 | 5 | 2.5 |
+|Bår                | 1601.3 | +1.3 | 5 | 2.5 |
 |Daniel Lupp        | 1585.0 | -2.0| 10 | 1.5 |
 |Daniel Ramstad     | 1581.3 | -18.7| 5 | 2.5 |
 |Temour             | 1537.5 | -62.5| 5 | 2.5 |
-|Martin             | 1480.1 | -119.9| 4 | 3.0 |
+|Martin             | 1518.5 | -81.5| 5 | 2.5 |
 |Hans               | 1472.4 | -127.6| 5 | 2.5 |
 
 #####Last 100 matches
 |Date              |Player 1   |Player 2 |Result| 
 |:------------------|:-------|:------|:------|
+| 2/16/2016 | Martin +38.4 | Bår -38.4| 2 - 1 |
 | 2/16/2016 | Bår -2.5 | Temour +2.1| 2 - 1 |
 | 2/16/2016 | Martin -38.2 | Temour +38.2| 0 - 2 |
 | 2/16/2016 | Bår +42.0 | Daniel Ramstad -30.0| 2 - 0 |
