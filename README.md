@@ -1,8 +1,9 @@
 ###OSI Squash ranking 16.02.2016 12:14
 Form: http://bit.ly/1U5gJyG
 Trend = rating change last 5 matches
+PID = multiplier, it will decrease over the 15 first game
 
-PID = multiplier, it will decrease over the 15 first games.#####Current ratings
+#####Current ratings
 |Name              |Rank   |Trend |Total  |PID|
 |:------------------|:-------|:------|:------|:--|
 |Henrik             | 1752.0 | +152.0| 5 | 2.5 |
