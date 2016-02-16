@@ -1,4 +1,4 @@
-###OSI Squash ranking 16.02.2016 21:13
+###OSI Squash ranking 16.02.2016 21:15
 Form: http://bit.ly/1U5gJyG
 Trend = rating change last 5 matches
 PID = multiplier, it will decrease over the 15 first game
