@@ -1,5 +1,5 @@
-###OSI Squash ranking 16.02.2016 12:09
-Trend = ranting change last 5 matches
+###OSI Squash ranking 16.02.2016 12:11
+Form: http://bit.ly/1U5gJyGTrend = ranting change last 5 matches
 
 #####Current ratings
 |Name              |Rank   |Trend |Total  |PID|
