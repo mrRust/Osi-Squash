@@ -1,4 +1,4 @@
-Last update: 16.02.2016 23:00
+###OSI Squash RankingLast update: 16.02.2016 23:09
 
 Form: http://bit.ly/1U5gJyG
 
@@ -11,7 +11,6 @@ PID = multiplier, it will decrease over the 15 first game
 |:------------------|:-------|:------|:------|:--|
 |Henrik             | 1752.0 | +152.0| 5 | 2.5 |
 |Alex               | 1716.5 | +116.5| 5 | 2.5 |
-|Testplayer 1       | 1677.1 | +77.1| 1 | 5.0 |
 |Jonas              | 1660.8 | +58.1| 8 | 2.0 |
 |Bår                | 1650.3 | +8.0 | 8 | 2.0 |
 |Sverre             | 1648.0 | +48.0| 3 | 3.5 |
@@ -22,7 +21,6 @@ PID = multiplier, it will decrease over the 15 first game
 |Hien-Minh          | 1560.5 | -39.5| 3 | 3.5 |
 |Temour             | 1560.3 | +63.1| 8 | 2.0 |
 |Daniel Årvik       | 1531.5 | -68.5| 3 | 3.5 |
-|Testplayer 2       | 1522.9 | -77.1| 1 | 5.0 |
 |Martin             | 1518.5 | -81.5| 5 | 2.5 |
 |Vidar              | 1474.8 | -125.2| 3 | 3.5 |
 |Hans               | 1472.4 | -127.6| 5 | 2.5 |
@@ -30,7 +28,6 @@ PID = multiplier, it will decrease over the 15 first game
 #####Last 100 matches
 |Date              |Player 1   |Player 2 |Result| 
 |:------------------|:-------|:------|:------|
-| 2/16/2016 | Testplayer 1 +77.1 | Testplayer 2 -77.1| 5 - 2 |
 | 2/16/2016 | Vidar -17.2 | Daniel Årvik +17.2| 1 - 2 |
 | 2/16/2016 | Temour +17.8 | Hien-Minh -31.1| 2 - 1 |
 | 2/16/2016 | Daniel Lupp -18.0 | Sverre +42.0| 0 - 2 |
