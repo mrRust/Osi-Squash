@@ -1,4 +1,5 @@
-###OSI Squash ranking 16.02.2016 21:46
+Last update: 16.02.2016 22:07
+
 Form: http://bit.ly/1U5gJyG
 
 Trend = rating change last 5 matches
@@ -10,19 +11,35 @@ PID = multiplier, it will decrease over the 15 first game
 |:------------------|:-------|:------|:------|:--|
 |Henrik             | 1752.0 | +152.0| 5 | 2.5 |
 |Alex               | 1716.5 | +116.5| 5 | 2.5 |
-|Jonas              | 1626.6 | +26.6| 5 | 2.5 |
+|Jonas              | 1660.8 | +58.1| 8 | 2.0 |
+|Bår                | 1650.3 | +8.0 | 8 | 2.0 |
+|Sverre             | 1648.0 | +48.0| 3 | 3.5 |
 |Jens               | 1625.3 | +25.3| 5 | 2.5 |
 |Even               | 1607.4 | +7.4 | 5 | 2.5 |
-|Bår                | 1601.3 | +1.3 | 5 | 2.5 |
-|Daniel Lupp        | 1585.0 | -2.0| 10 | 1.5 |
 |Daniel Ramstad     | 1581.3 | -18.7| 5 | 2.5 |
-|Temour             | 1537.5 | -62.5| 5 | 2.5 |
+|Daniel Lupp        | 1569.9 | +1.3 | 13 | 1.5 |
+|Hien-Minh          | 1560.5 | -39.5| 3 | 3.5 |
+|Temour             | 1560.3 | +63.1| 8 | 2.0 |
+|Daniel Årvik       | 1531.5 | -68.5| 3 | 3.5 |
 |Martin             | 1518.5 | -81.5| 5 | 2.5 |
+|Vidar              | 1474.8 | -125.2| 3 | 3.5 |
 |Hans               | 1472.4 | -127.6| 5 | 2.5 |
 
 #####Last 100 matches
 |Date              |Player 1   |Player 2 |Result| 
 |:------------------|:-------|:------|:------|
+| 2/16/2016 | Vidar -17.2 | Daniel Årvik +17.2| 1 - 2 |
+| 2/16/2016 | Temour +17.8 | Hien-Minh -31.1| 2 - 1 |
+| 2/16/2016 | Daniel Lupp -18.0 | Sverre +42.0| 0 - 2 |
+| 2/16/2016 | Bår +14.2 | Jonas -14.2| 2 - 1 |
+| 2/16/2016 | Temour +27.8 | Daniel Årvik -55.7| 2 - 0 |
+| 2/16/2016 | Bår +12.0 | Sverre -24.0| 2 - 1 |
+| 2/16/2016 | Hien-Minh +48.0 | Vidar -48.0| 2 - 0 |
+| 2/16/2016 | Jonas +20.2 | Daniel Lupp -15.1| 2 - 0 |
+| 2/16/2016 | Sverre +30.0 | Daniel Årvik -30.0| 2 - 1 |
+| 2/16/2016 | Bår +22.8 | Temour -22.8| 2 - 0 |
+| 2/16/2016 | Daniel Lupp +18.0 | Vidar -60.0| 2 - 0 |
+| 2/16/2016 | Jonas +28.2 | Hien-Minh -56.4| 2 - 0 |
 | 2/16/2016 | Martin +38.4 | Bår -38.4| 2 - 1 |
 | 2/16/2016 | Bår -2.5 | Temour +2.1| 2 - 1 |
 | 2/16/2016 | Martin -38.2 | Temour +38.2| 0 - 2 |
