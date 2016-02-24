@@ -1,6 +1,6 @@
 ###OSI Squash Ranking
 
-Last update: 24.02.2016 03:02
+Last update: 24.02.2016 22:38
 
 Form: http://bit.ly/1U5gJyG
 
@@ -11,25 +11,43 @@ PID = multiplier, it will decrease over the 15 first game
 #####Current ratings
 |Name              |Rank   |Trend |Total  |PID|
 |:------------------|:-------|:------|:------|:--|
-|Alex               | 1754.1 | +32.7| 8 | 2.0 |
-|Henrik             | 1752.0 | +152.0| 5 | 2.5 |
+|Henrik             | 1800.2 | +48.2| 10 | 1.5 |
+|Alex               | 1754.7 | +0.5 | 13 | 1.5 |
+|Jonas              | 1665.5 | +12.2| 17 | 1.0 |
 |Bår                | 1656.4 | +32.3| 11 | 1.5 |
 |Sverre             | 1648.0 | +48.0| 3 | 3.5 |
-|Jonas              | 1646.8 | -8.0| 11 | 1.5 |
 |Even               | 1630.8 | +29.9| 8 | 2.0 |
 |Jens               | 1625.3 | +25.3| 5 | 2.5 |
-|Daniel Lupp        | 1594.8 | -8.2| 16 | 1.0 |
-|Daniel Ramstad     | 1582.8 | -27.8| 8 | 2.0 |
-|Temour             | 1555.5 | +40.8| 11 | 1.5 |
+|Daniel Lupp        | 1590.2 | +1.4 | 20 | 1.0 |
+|Daniel Ramstad     | 1568.0 | -14.8| 13 | 1.5 |
+|Temour             | 1560.5 | -6.2| 17 | 1.0 |
 |Daniel Årvik       | 1531.5 | -68.5| 3 | 3.5 |
 |Martin             | 1518.5 | -81.5| 5 | 2.5 |
 |Vidar              | 1474.8 | -125.2| 3 | 3.5 |
 |Hans               | 1472.4 | -127.6| 5 | 2.5 |
-|Hien-Minh          | 1464.3 | -79.3| 6 | 2.5 |
+|Hien-Minh          | 1419.5 | -44.9| 11 | 1.5 |
 
 #####Last 100 matches
 |Date              |Player 1   |Player 2 |Result| 
 |:------------------|:-------|:------|:------|
+| 2/24/2016 | Daniel Lupp -8.9 | Daniel Ramstad +13.3| 1 - 2 |
+| 2/24/2016 | Temour +0.8 | Jonas -0.8| 1 - 2 |
+| 2/24/2016 | Alex -7.4 | Henrik +7.4| 1 - 2 |
+| 2/24/2016 | Hien-Minh -11.2 | Daniel Ramstad +11.2| 0 - 2 |
+| 2/24/2016 | Henrik +7.7 | Temour -3.8| 2 - 0 |
+| 2/24/2016 | Alex +0.4 | Jonas -0.2| 2 - 1 |
+| 2/24/2016 | Daniel Lupp -10.3 | Temour +15.5| 1 - 2 |
+| 2/24/2016 | Jonas +12.2 | Daniel Ramstad -12.2| 2 - 0 |
+| 2/24/2016 | Hien-Minh -2.5 | Alex +2.5| 0 - 2 |
+| 2/24/2016 | Jonas -11.2 | Henrik +14.9| 0 - 2 |
+| 2/24/2016 | Temour -12.2 | Jonas +12.2| 0 - 2 |
+| 2/24/2016 | Temour -6.5 | Henrik +8.6| 0 - 2 |
+| 2/24/2016 | Hien-Minh -14.9 | Temour +11.2| 0 - 2 |
+| 2/24/2016 | Hien-Minh -8.6 | Jonas +6.5| 0 - 2 |
+| 2/24/2016 | Hien-Minh -7.7 | Henrik +9.6| 0 - 2 |
+| 2/24/2016 | Alex -5.0 | Daniel Lupp +3.4| 2 - 1 |
+| 2/24/2016 | Daniel Lupp +11.3 | Daniel Ramstad -16.9| 2 - 0 |
+| 2/24/2016 | Alex +10.1 | Daniel Ramstad -10.1| 2 - 0 |
 | 2/18/2016 | Temour +12.2 | Hien-Minh -20.4| 3 - 1 |
 | 2/18/2016 | Daniel Lupp +6.0 | Daniel Ramstad -12.0| 3 - 2 |
 | 2/18/2016 | Even +21.6 | Jonas -16.2| 3 - 2 |
