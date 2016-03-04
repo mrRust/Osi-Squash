@@ -1,6 +1,6 @@
 ###OSI Squash Ranking
 
-Last update: 04.03.2016 16:18
+Last update: 04.03.2016 16:21
 
 Form: http://bit.ly/1U5gJyG
 
@@ -18,23 +18,24 @@ PID = multiplier, it will decrease over the 15 first game
 |Sverre             | 1648.0 | +48.0| 3 | 3.5 |
 |Even               | 1630.8 | +29.9| 8 | 2.0 |
 |Jens               | 1625.3 | +25.3| 5 | 2.5 |
+|Daniel årvik       | 1621.0 | +21.0| 1 | 5.0 |
 |Daniel Lupp        | 1590.2 | +1.4 | 20 | 1.0 |
-|Daniel Årvik       | 1571.1 | -28.9| 4 | 3.0 |
 |Daniel Ramstad     | 1568.0 | -14.8| 13 | 1.5 |
 |Temour             | 1560.5 | -6.2| 17 | 1.0 |
-|Phat               | 1558.6 | -41.4| 1 | 5.0 |
+|Phat               | 1560.4 | -39.6| 1 | 5.0 |
+|Daniel Årvik       | 1531.5 | -68.5| 3 | 3.5 |
+|Hans               | 1530.3 | +23.8| 8 | 2.0 |
 |Martin             | 1518.5 | -81.5| 5 | 2.5 |
-|Hans               | 1512.9 | +6.4 | 8 | 2.0 |
 |Vidar              | 1474.8 | -125.2| 3 | 3.5 |
-|Ts                 | 1457.8 | -142.2| 1 | 5.0 |
+|TS                 | 1468.6 | -131.4| 1 | 5.0 |
 |Hien-Minh          | 1419.5 | -44.9| 11 | 1.5 |
 
 #####Last 100 matches
 |Date              |Player 1   |Player 2 |Result| 
 |:------------------|:-------|:------|:------|
-| 3/4/2016 | Hans +16.6 | Phat -41.4| 1 - 0 |
-| 3/4/2016 | Hans +56.9 | Ts -142.2| 3 - 0 |
-| 3/4/2016 | Daniel Årvik +39.6 | Hans -33.0| 4 - 1 |
+| 3/4/2016 | Hans +15.8 | Phat -39.6| 1 - 0 |
+| 3/4/2016 | Hans +52.6 | TS -131.4| 3 - 0 |
+| 3/4/2016 | Daniel årvik +21.0 | Hans -10.5| 4 - 1 |
 | 2/24/2016 | Daniel Lupp -8.9 | Daniel Ramstad +13.3| 1 - 2 |
 | 2/24/2016 | Temour +0.8 | Jonas -0.8| 1 - 2 |
 | 2/24/2016 | Alex -7.4 | Henrik +7.4| 1 - 2 |
