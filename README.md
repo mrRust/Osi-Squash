@@ -1,6 +1,6 @@
 ###OSI Squash Ranking
 
-Last update: 07.03.2016 03:03
+Last update: 07.03.2016 17:48
 
 Form: http://bit.ly/1U5gJyG
 
@@ -11,8 +11,8 @@ PID = multiplier, it will decrease over the 15 first game
 #####Current ratings
 |Name              |Rank   |Trend |Total  |PID|
 |:------------------|:-------|:------|:------|:--|
-|Henrik             | 1786.7 | -22.2| 16 | 1.0 |
-|Alex               | 1786.0 | +21.6| 19 | 1.0 |
+|Henrik             | 1798.7 | -10.2| 16 | 1.0 |
+|Alex               | 1774.0 | +9.6 | 19 | 1.0 |
 |Jonas              | 1665.5 | +12.2| 17 | 1.0 |
 |Bår                | 1662.0 | +14.3| 17 | 1.0 |
 |Even               | 1653.5 | +35.6| 14 | 1.5 |
@@ -37,7 +37,7 @@ PID = multiplier, it will decrease over the 15 first game
 | 3/6/2016 | Janis -12.3 | Christian +12.3| 1 - 2 |
 | 3/6/2016 | Temour -7.4 | Even +11.2| 0 - 2 |
 | 3/6/2016 | Bår -10.3 | Daniel Ramstad +10.3| 1 - 2 |
-| 3/6/2016 | Alex +6.0 | Henrik -6.0| 2 - 1 |
+| 3/6/2016 | Alex -6.0 | Henrik +6.0| 1 - 2 |
 | 3/6/2016 | Temour +6.0 | Christian -15.0| 2 - 1 |
 | 3/6/2016 | Janis -16.2 | Even +9.7| 0 - 2 |
 | 3/6/2016 | Alex -0.8 | Bår +0.8| 2 - 1 |
