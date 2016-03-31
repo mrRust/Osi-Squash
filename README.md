@@ -1,6 +1,6 @@
 ###OSI Squash Ranking
 
-Last update: 30.03.2016 03:00
+Last update: 31.03.2016 03:00
 
 Form: http://bit.ly/1U5gJyG
 
