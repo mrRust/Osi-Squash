@@ -1,6 +1,6 @@
 ###OSI Squash Ranking
 
-Last update: 31.03.2016 11:52
+Last update: 31.03.2016 11:54
 
 Form: http://bit.ly/1U5gJyG
 
@@ -11,20 +11,19 @@ PID = multiplier, it will decrease over the 15 first game
 #####Current ratings
 |Name              |Rank   |Trend |Total  |PID|
 |:------------------|:-------|:------|:------|:--|
+|Alex               | 1798.8 | +12.8| 34 | 1.0 |
 |Henrik             | 1798.7 | -10.2| 16 | 1.0 |
-|Alex               | 1798.1 | +12.1| 34 | 1.0 |
 |Even               | 1685.8 | +14.3| 20 | 1.0 |
 |Bår                | 1659.4 | -2.6| 22 | 1.0 |
 |Jens               | 1655.9 | +46.8| 11 | 1.5 |
-|Joans              | 1650.4 | +50.4| 1 | 5.0 |
 |Sverre             | 1648.0 | +48.0| 3 | 3.5 |
+|Jonas              | 1641.4 | -0.5| 34 | 1.0 |
 |Christian          | 1636.5 | +20.6| 17 | 1.0 |
-|Jonas              | 1634.7 | -19.2| 33 | 1.0 |
 |Daniel Ramstad     | 1600.5 | -8.4| 25 | 1.0 |
 |Daniel Lupp        | 1563.9 | -45.5| 23 | 1.0 |
 |Phat               | 1558.6 | -41.4| 1 | 5.0 |
 |Daniel Årvik       | 1548.9 | -51.1| 5 | 2.5 |
-|Temour             | 1537.9 | +3.7 | 39 | 1.0 |
+|Temour             | 1540.5 | +6.4 | 39 | 1.0 |
 |Martin             | 1518.5 | -81.5| 5 | 2.5 |
 |Vidar              | 1474.8 | -125.2| 3 | 3.5 |
 |Hans               | 1460.8 | -58.7| 15 | 1.5 |
@@ -42,10 +41,10 @@ PID = multiplier, it will decrease over the 15 first game
 | 3/31/2016 | Hien-Minh -7.4 | Temour +7.4| 0 - 2 |
 | 3/31/2016 | Alex -0.8 | Even +0.8| 2 - 1 |
 | 3/31/2016 | Even +10.1 | Christian -10.1| 2 - 0 |
-| 3/31/2016 | Alex +5.8 | Jonas -5.8| 2 - 0 |
+| 3/31/2016 | Alex +6.5 | Jonas -6.5| 2 - 0 |
 | 3/31/2016 | Janis +9.4 | Even -6.2| 1 - 2 |
 | 3/31/2016 | Christian +11.2 | Hans -11.2| 2 - 0 |
-| 3/31/2016 | Temour -10.1 | Joans +50.4| 0 - 2 |
+| 3/31/2016 | Temour -7.4 | Jonas +7.4| 0 - 2 |
 | 3/31/2016 | Alex +1.7 | Hien-Minh -1.7| 2 - 0 |
 | 3/31/2016 | Hien-Minh -3.8 | Jonas +3.8| 0 - 2 |
 | 3/31/2016 | Hien-Minh -3.8 | Even +3.8| 0 - 2 |
