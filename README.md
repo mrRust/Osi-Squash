@@ -1,6 +1,6 @@
 ###OSI Squash Ranking
 
-Last update: 14.04.2016 03:01
+Last update: 18.04.2016 23:40
 
 Form: http://bit.ly/1U5gJyG
 
@@ -11,19 +11,19 @@ PID = multiplier, it will decrease over the 15 first game
 #####Current ratings
 |Name              |Rank   |Trend |Total  |PID|
 |:------------------|:-------|:------|:------|:--|
+|Alex               | 1821.6 | +26.2| 40 | 1.0 |
 |Henrik             | 1805.7 | +7.1 | 21 | 1.0 |
-|Alex               | 1798.8 | +12.8| 34 | 1.0 |
-|Bår                | 1688.0 | +28.6| 27 | 1.0 |
-|Even               | 1668.2 | -17.6| 25 | 1.0 |
-|Jens               | 1656.2 | +0.2 | 16 | 1.0 |
-|Sverre             | 1648.0 | +48.0| 3 | 3.5 |
+|Bår                | 1703.0 | +3.0 | 33 | 1.0 |
+|Sverre             | 1679.3 | +48.6| 9 | 2.0 |
+|Even               | 1658.0 | +1.8 | 31 | 1.0 |
+|Jens               | 1653.9 | -5.6| 22 | 1.0 |
 |Jonas              | 1641.4 | -0.5| 34 | 1.0 |
-|Christian          | 1636.5 | +20.6| 17 | 1.0 |
-|Daniel Ramstad     | 1600.5 | -8.4| 25 | 1.0 |
+|Daniel Ramstad     | 1611.7 | +10.3| 31 | 1.0 |
+|Christian          | 1585.7 | -49.1| 23 | 1.0 |
 |Daniel Lupp        | 1563.9 | -45.5| 23 | 1.0 |
 |Phat               | 1558.6 | -41.4| 1 | 5.0 |
 |Daniel Årvik       | 1548.9 | -51.1| 5 | 2.5 |
-|Temour             | 1526.1 | -14.4| 44 | 1.0 |
+|Temour             | 1524.2 | +1.9 | 50 | 1.0 |
 |Martin             | 1518.5 | -81.5| 5 | 2.5 |
 |Vidar              | 1474.8 | -125.2| 3 | 3.5 |
 |Hans               | 1460.8 | -58.7| 15 | 1.5 |
@@ -34,6 +34,30 @@ PID = multiplier, it will decrease over the 15 first game
 #####Last 100 matches
 |Date              |Player 1   |Player 2 |Result| 
 |:------------------|:-------|:------|:------|
+| 4/18/2016 | Christian -15.8 | Temour +15.8| 0 - 2 |
+| 4/18/2016 | Daniel Ramstad -11.3 | Even +11.3| 0 - 2 |
+| 4/18/2016 | Jens -4.9 | Bår +4.9| 1 - 2 |
+| 4/18/2016 | Alex +6.5 | Sverre -13.0| 2 - 0 |
+| 4/18/2016 | Temour -6.5 | Even +6.5| 0 - 2 |
+| 4/18/2016 | Christian -12.0 | Daniel Ramstad +12.0| 0 - 2 |
+| 4/18/2016 | Bår -7.1 | Sverre +14.2| 1 - 2 |
+| 4/18/2016 | Alex +5.8 | Jens -5.8| 2 - 0 |
+| 4/18/2016 | Sverre +24.0 | Even -12.0| 2 - 0 |
+| 4/18/2016 | Temour -4.3 | Bår +4.3| 0 - 2 |
+| 4/18/2016 | Jens +11.3 | Daniel Ramstad -11.3| 2 - 0 |
+| 4/18/2016 | Alex +4.3 | Christian -4.3| 2 - 0 |
+| 4/18/2016 | Daniel Ramstad +12.0 | Christian -12.0| 2 - 0 |
+| 4/18/2016 | Daniel Ramstad +8.9 | Even -8.9| 2 - 1 |
+| 4/18/2016 | Christian -4.9 | Even +4.9| 1 - 2 |
+| 4/18/2016 | Daniel Ramstad +0.8 | Bår -0.8| 1 - 2 |
+| 4/18/2016 | Christian -1.7 | Bår +1.7| 1 - 2 |
+| 4/18/2016 | Even -12.0 | Bår +12.0| 0 - 2 |
+| 4/18/2016 | Temour +3.4 | Sverre -8.4| 1 - 2 |
+| 4/18/2016 | Temour -6.5 | Jens +6.5| 0 - 2 |
+| 4/18/2016 | Sverre +31.8 | Jens -12.7| 2 - 0 |
+| 4/18/2016 | Temour -3.8 | Alex +3.8| 0 - 2 |
+| 4/18/2016 | Sverre -17.3 | Alex +5.8| 0 - 2 |
+| 4/18/2016 | Jens +3.4 | Alex -3.4| 1 - 2 |
 | 4/6/2016 | Temour -5.8 | Bår +5.8| 0 - 2 |
 | 4/6/2016 | Jens -12.0 | Bår +12.0| 0 - 2 |
 | 4/6/2016 | Jens +9.7 | Temour -6.5| 2 - 0 |
@@ -110,27 +134,3 @@ PID = multiplier, it will decrease over the 15 first game
 | 3/9/2016 | Hans +17.8 | Daniel Årvik -22.2| 2 - 1 |
 | 3/6/2016 | Janis -12.3 | Christian +12.3| 1 - 2 |
 | 3/6/2016 | Temour -7.4 | Even +11.2| 0 - 2 |
-| 3/6/2016 | Bår -10.3 | Daniel Ramstad +10.3| 1 - 2 |
-| 3/6/2016 | Alex -6.0 | Henrik +6.0| 1 - 2 |
-| 3/6/2016 | Temour +6.0 | Christian -15.0| 2 - 1 |
-| 3/6/2016 | Janis -16.2 | Even +9.7| 0 - 2 |
-| 3/6/2016 | Alex -0.8 | Bår +0.8| 2 - 1 |
-| 3/6/2016 | Henrik -30.2 | Daniel Ramstad +20.2| 0 - 2 |
-| 3/6/2016 | Bår +11.2 | Christian -22.3| 2 - 0 |
-| 3/6/2016 | Alex +3.8 | Temour -3.8| 2 - 0 |
-| 3/6/2016 | Even -15.5 | Daniel Ramstad +10.3| 1 - 2 |
-| 3/6/2016 | Henrik +2.5 | Janis -5.0| 2 - 0 |
-| 3/6/2016 | Janis -21.0 | Christian +21.0| 1 - 2 |
-| 3/6/2016 | Christian -40.3 | Even +15.1| 0 - 2 |
-| 3/6/2016 | Janis -40.3 | Even +15.1| 0 - 2 |
-| 3/6/2016 | Christian -25.2 | Alex +5.0| 0 - 2 |
-| 3/6/2016 | Alex +7.6 | Janis -25.2| 2 - 0 |
-| 3/6/2016 | Even -13.0 | Alex +9.7| 0 - 2 |
-| 3/6/2016 | Temour -12.0 | Daniel Ramstad +12.0| 0 - 2 |
-| 3/6/2016 | Bår +12.2 | Temour -8.2| 2 - 0 |
-| 3/6/2016 | Bår +0.4 | Daniel Ramstad -0.4| 2 - 1 |
-| 3/6/2016 | Henrik +5.8 | Temour -3.8| 2 - 0 |
-| 3/6/2016 | Henrik +5.8 | Daniel Ramstad -5.8| 2 - 0 |
-| 3/6/2016 | Bår -8.6 | Henrik +8.6| 0 - 2 |
-| 3/4/2016 | Hans +16.6 | Phat -41.4| 1 - 0 |
-| 3/4/2016 | Hans +56.9 | TS -142.2| 3 - 0 |
