@@ -1,6 +1,6 @@
 ###OSI Squash Ranking
 
-Last update: 27.04.2016 09:32
+Last update: 27.04.2016 21:06
 
 Form: http://bit.ly/1U5gJyG
 
@@ -11,29 +11,54 @@ PID = multiplier, it will decrease over the 15 first game
 #####Current ratings
 |Name              |Rank   |Trend |Total  |PID|
 |:------------------|:-------|:------|:------|:--|
-|Alex               | 1835.3 | +20.2| 44 | 1.0 |
+|Alex               | 1850.6 | +11.4| 50 | 1.0 |
 |Henrik             | 1805.7 | +7.1 | 21 | 1.0 |
-|Bår                | 1708.1 | +10.1| 37 | 1.0 |
+|Bår                | 1717.4 | +6.1 | 43 | 1.0 |
 |Sverre             | 1679.3 | +48.6| 9 | 2.0 |
-|Jens               | 1653.9 | -5.6| 22 | 1.0 |
+|Jens               | 1669.1 | +18.4| 28 | 1.0 |
 |Jonas              | 1641.4 | -0.5| 34 | 1.0 |
 |Even               | 1635.9 | -10.8| 35 | 1.0 |
-|Daniel Ramstad     | 1623.9 | +1.0 | 35 | 1.0 |
-|Christian          | 1585.7 | -49.1| 23 | 1.0 |
+|Daniel Ramstad     | 1625.7 | +5.6 | 41 | 1.0 |
+|Christian          | 1594.7 | +12.8| 29 | 1.0 |
 |Daniel Lupp        | 1563.9 | -45.5| 23 | 1.0 |
 |Phat               | 1558.6 | -41.4| 1 | 5.0 |
 |Daniel Årvik       | 1548.9 | -51.1| 5 | 2.5 |
-|Temour             | 1524.2 | +1.9 | 50 | 1.0 |
 |Martin             | 1518.5 | -81.5| 5 | 2.5 |
+|Temour             | 1515.9 | -13.8| 56 | 1.0 |
 |Vidar              | 1474.8 | -125.2| 3 | 3.5 |
 |Hans               | 1460.8 | -58.7| 15 | 1.5 |
 |TS                 | 1457.8 | -142.2| 1 | 5.0 |
-|Janis              | 1437.2 | +0.2 | 21 | 1.0 |
+|Janis              | 1444.2 | +10.8| 27 | 1.0 |
+|Emma               | 1439.1 | -141.7| 6 | 2.5 |
 |Hien-Minh          | 1411.8 | +1.3 | 30 | 1.0 |
 
 #####Last 100 matches
 |Date              |Player 1   |Player 2 |Result| 
 |:------------------|:-------|:------|:------|
+| 4/27/2016 | Temour +11.3 | Emma -28.2| 2 - 0 |
+| 4/27/2016 | Christian +6.5 | Janis -6.5| 2 - 0 |
+| 4/27/2016 | Jens +12.0 | Daniel Ramstad -12.0| 2 - 0 |
+| 4/27/2016 | Alex -2.3 | Bår +2.3| 2 - 1 |
+| 4/27/2016 | Emma -22.2 | Janis +8.9| 1 - 2 |
+| 4/27/2016 | Temour -9.1 | Christian +9.1| 0 - 2 |
+| 4/27/2016 | Bår +1.7 | Daniel Ramstad -1.7| 2 - 1 |
+| 4/27/2016 | Alex +4.3 | Jens -4.3| 2 - 0 |
+| 4/27/2016 | Daniel Ramstad +4.3 | Janis -4.3| 2 - 0 |
+| 4/27/2016 | Emma -11.5 | Bår +3.8| 0 - 2 |
+| 4/27/2016 | Christian -9.1 | Jens +9.1| 0 - 2 |
+| 4/27/2016 | Alex +1.7 | Temour -1.7| 2 - 0 |
+| 4/27/2016 | Janis +16.6 | Temour -16.6| 2 - 0 |
+| 4/27/2016 | Janis -3.8 | Jens +3.8| 0 - 2 |
+| 4/27/2016 | Temour +2.3 | Jens -2.3| 1 - 2 |
+| 4/27/2016 | Janis -3.8 | Bår +3.8| 0 - 2 |
+| 4/27/2016 | Temour +5.5 | Bår -5.5| 1 - 2 |
+| 4/27/2016 | Jens -3.1 | Bår +3.1| 1 - 2 |
+| 4/27/2016 | Emma -39.5 | Christian +11.3| 0 - 2 |
+| 4/27/2016 | Emma -40.3 | Daniel Ramstad +10.1| 0 - 2 |
+| 4/27/2016 | Christian -4.9 | Daniel Ramstad +4.9| 1 - 2 |
+| 4/27/2016 | Emma -19.2 | Alex +3.8| 0 - 2 |
+| 4/27/2016 | Christian -3.8 | Alex +3.8| 0 - 2 |
+| 4/27/2016 | Daniel Ramstad -3.8 | Alex +3.8| 0 - 2 |
 | 4/27/2016 | Even +4.3 | Alex -4.3| 1 - 3 |
 | 4/27/2016 | Even -6.2 | Bår +6.2| 1 - 3 |
 | 4/27/2016 | Alex +11.2 | Bår -11.2| 3 - 0 |
@@ -110,27 +135,3 @@ PID = multiplier, it will decrease over the 15 first game
 | 3/17/2016 | Bår +7.4 | Temour -7.4| 2 - 0 |
 | 3/17/2016 | Jonas +11.3 | Daniel Ramstad -11.3| 2 - 0 |
 | 3/17/2016 | Alex +7.4 | Jens -11.2| 2 - 0 |
-| 3/17/2016 | Hien-Minh -7.4 | Temour +7.4| 0 - 2 |
-| 3/17/2016 | Jonas -6.0 | Jens +9.0| 1 - 2 |
-| 3/17/2016 | Alex +5.0 | Daniel Ramstad -5.0| 2 - 0 |
-| 3/17/2016 | Jens +16.3 | Temour -8.2| 2 - 0 |
-| 3/17/2016 | Hien-Minh +6.2 | Jonas -6.2| 1 - 2 |
-| 3/17/2016 | Daniel Ramstad +14.9 | Bår -14.9| 2 - 0 |
-| 3/17/2016 | Daniel Lupp -7.1 | Temour +7.1| 1 - 2 |
-| 3/17/2016 | Temour +2.3 | Jonas -2.3| 1 - 2 |
-| 3/17/2016 | Daniel Lupp -9.1 | Jonas +9.1| 0 - 2 |
-| 3/17/2016 | Bår +7.4 | Temour -7.4| 2 - 0 |
-| 3/17/2016 | Daniel Lupp -10.1 | Bår +10.1| 0 - 2 |
-| 3/17/2016 | Jonas +12.7 | Bår -12.7| 2 - 0 |
-| 3/17/2016 | Hien-Minh -5.0 | Daniel Ramstad +5.0| 0 - 2 |
-| 3/17/2016 | Hien-Minh -4.3 | Jens +8.6| 0 - 2 |
-| 3/17/2016 | Jens +24.0 | Daniel Ramstad -12.0| 2 - 0 |
-| 3/17/2016 | Alex +1.7 | Hien-Minh -1.7| 2 - 0 |
-| 3/17/2016 | Alex +5.8 | Daniel Ramstad -5.8| 2 - 0 |
-| 3/17/2016 | Jens -16.2 | Alex +6.5| 0 - 2 |
-| 3/10/2016 | Hien-Minh +31.3 | Janis -31.3| 3 - 0 |
-| 3/10/2016 | Jonas -19.8 | Temour +19.8| 2 - 3 |
-| 3/10/2016 | Alex -13.2 | Christian +19.8| 3 - 2 |
-| 3/10/2016 | Temour -16.9 | Christian +25.4| 0 - 3 |
-| 3/10/2016 | Alex +2.9 | Jonas -2.9| 3 - 1 |
-| 3/10/2016 | Christian +22.3 | Hien-Minh -16.7| 3 - 0 |
