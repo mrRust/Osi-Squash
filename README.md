@@ -1,6 +1,6 @@
 ###OSI Squash Ranking
 
-Last update: 12.05.2016 12:55
+Last update: 25.05.2016 20:51
 
 Form: http://bit.ly/1U5gJyG
 
@@ -11,13 +11,13 @@ PID = multiplier, it will decrease over the 15 first game
 #####Current ratings
 |Name              |Rank   |Trend |Total  |PID|
 |:------------------|:-------|:------|:------|:--|
-|Alex               | 1836.5 | +13.0| 59 | 1.0 |
+|Alex               | 1835.6 | +3.1 | 62 | 1.0 |
 |Henrik             | 1805.7 | +7.1 | 21 | 1.0 |
 |Bår                | 1745.7 | +20.9| 52 | 1.0 |
+|Jens               | 1681.1 | +19.7| 31 | 1.0 |
 |Sverre             | 1679.3 | +48.6| 9 | 2.0 |
-|Jens               | 1669.1 | +18.4| 28 | 1.0 |
+|Daniel Ramstad     | 1652.7 | +18.4| 49 | 1.0 |
 |Jonas              | 1636.8 | +3.6 | 40 | 1.0 |
-|Daniel Ramstad     | 1636.1 | +10.3| 46 | 1.0 |
 |Even               | 1635.9 | -10.8| 35 | 1.0 |
 |Christian          | 1582.7 | -5.5| 33 | 1.0 |
 |Daniel Lupp        | 1563.9 | -45.5| 23 | 1.0 |
@@ -25,6 +25,7 @@ PID = multiplier, it will decrease over the 15 first game
 |Daniel Årvik       | 1548.9 | -51.1| 5 | 2.5 |
 |Temour             | 1541.5 | -14.2| 65 | 1.0 |
 |Martin             | 1518.5 | -81.5| 5 | 2.5 |
+|Johannes           | 1488.2 | -111.8| 3 | 3.5 |
 |Vidar              | 1474.8 | -125.2| 3 | 3.5 |
 |Hans               | 1460.8 | -58.7| 15 | 1.5 |
 |TS                 | 1457.8 | -142.2| 1 | 5.0 |
@@ -35,6 +36,12 @@ PID = multiplier, it will decrease over the 15 first game
 #####Last 100 matches
 |Date              |Player 1   |Player 2 |Result| 
 |:------------------|:-------|:------|:------|
+| 5/25/2016 | Alex -13.2 | Jens +13.2| 3 - 2 |
+| 5/25/2016 | Daniel Ramstad +9.7 | Johannes -34.0| 3 - 0 |
+| 5/25/2016 | Jens +12.2 | Johannes -49.0| 3 - 0 |
+| 5/25/2016 | Alex +6.5 | Daniel Ramstad -6.5| 3 - 0 |
+| 5/25/2016 | Alex +5.8 | Johannes -28.8| 3 - 0 |
+| 5/25/2016 | Daniel Ramstad +13.4 | Jens -13.4| 3 - 1 |
 | 5/12/2016 | Jonas +3.8 | Hien-Minh -3.8| 2 - 0 |
 | 5/12/2016 | Temour -9.1 | Daniel Ramstad +9.1| 0 - 2 |
 | 5/12/2016 | Alex +0.2 | Bår -0.2| 2 - 1 |
@@ -129,9 +136,3 @@ PID = multiplier, it will decrease over the 15 first game
 | 4/6/2016 | Janis -4.3 | Jens +6.5| 0 - 2 |
 | 4/6/2016 | Even -12.7 | Bår +12.7| 0 - 2 |
 | 4/6/2016 | Even +6.5 | Temour -6.5| 2 - 0 |
-| 4/6/2016 | Even +6.0 | Jens -9.0| 2 - 1 |
-| 4/6/2016 | Even -18.2 | Janis +18.2| 1 - 2 |
-| 4/6/2016 | Henrik +5.8 | Bår -5.8| 2 - 0 |
-| 4/6/2016 | Henrik +3.8 | Temour -3.8| 2 - 0 |
-| 4/6/2016 | Henrik -3.4 | Jens +5.0| 2 - 1 |
-| 4/6/2016 | Henrik +1.7 | Janis -1.7| 2 - 0 |
