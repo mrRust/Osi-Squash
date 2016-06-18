@@ -1,6 +1,6 @@
 ###OSI Squash Ranking
 
-Last update: 16.06.2016 09:29
+Last update: 18.06.2016 15:15
 
 Form: http://bit.ly/1U5gJyG
 
@@ -11,7 +11,7 @@ PID = multiplier, it will decrease over the 15 first game
 #####Current ratings
 |Name              |Rank   |Trend |Total  |PID|
 |:------------------|:-------|:------|:------|:--|
-|Alex               | 1847.0 | +11.2| 68 | 1.0 |
+|Alex               | 1852.7 | +15.2| 69 | 1.0 |
 |Henrik             | 1805.7 | +7.1 | 21 | 1.0 |
 |Bår                | 1758.8 | +13.3| 58 | 1.0 |
 |Daniel Ramstad     | 1682.3 | +39.2| 53 | 1.0 |
@@ -22,8 +22,8 @@ PID = multiplier, it will decrease over the 15 first game
 |Christian          | 1579.1 | -11.8| 42 | 1.0 |
 |Daniel Lupp        | 1563.9 | -45.5| 23 | 1.0 |
 |Phat               | 1558.6 | -41.4| 1 | 5.0 |
-|Temour             | 1549.5 | +11.6| 77 | 1.0 |
 |Daniel Årvik       | 1548.9 | -51.1| 5 | 2.5 |
+|Temour             | 1543.8 | -5.3| 78 | 1.0 |
 |Martin             | 1518.5 | -81.5| 5 | 2.5 |
 |Vidar              | 1474.8 | -125.2| 3 | 3.5 |
 |Hans               | 1460.8 | -58.7| 15 | 1.5 |
@@ -36,6 +36,7 @@ PID = multiplier, it will decrease over the 15 first game
 #####Last 100 matches
 |Date              |Player 1   |Player 2 |Result| 
 |:------------------|:-------|:------|:------|
+| 6/18/2016 | Alex +5.8 | Temour -5.8| 3 - 0 |
 | 6/16/2016 | Temour -0.5 | Emma +0.5| 3 - 1 |
 | 6/16/2016 | Alex +1.1 | Emma -1.1| 3 - 0 |
 | 6/16/2016 | Jens -7.8 | Temour +7.8| 3 - 2 |
@@ -135,4 +136,3 @@ PID = multiplier, it will decrease over the 15 first game
 | 4/27/2016 | Christian -4.9 | Daniel Ramstad +4.9| 1 - 2 |
 | 4/27/2016 | Emma -19.2 | Alex +3.8| 0 - 2 |
 | 4/27/2016 | Christian -3.8 | Alex +3.8| 0 - 2 |
-| 4/27/2016 | Daniel Ramstad -3.8 | Alex +3.8| 0 - 2 |
