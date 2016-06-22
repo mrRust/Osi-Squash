@@ -1,6 +1,6 @@
 ###OSI Squash Ranking
 
-Last update: 18.06.2016 15:15
+Last update: 22.06.2016 21:54
 
 Form: http://bit.ly/1U5gJyG
 
@@ -11,20 +11,21 @@ PID = multiplier, it will decrease over the 15 first game
 #####Current ratings
 |Name              |Rank   |Trend |Total  |PID|
 |:------------------|:-------|:------|:------|:--|
-|Alex               | 1852.7 | +15.2| 69 | 1.0 |
+|Alex               | 1842.6 | -3.2| 72 | 1.0 |
 |Henrik             | 1805.7 | +7.1 | 21 | 1.0 |
 |Bår                | 1758.8 | +13.3| 58 | 1.0 |
 |Daniel Ramstad     | 1682.3 | +39.2| 53 | 1.0 |
 |Sverre             | 1679.3 | +48.6| 9 | 2.0 |
+|Jonas              | 1668.6 | +13.1| 53 | 1.0 |
 |Jens               | 1662.6 | -8.4| 40 | 1.0 |
-|Jonas              | 1656.4 | +18.1| 50 | 1.0 |
 |Even               | 1635.9 | -10.8| 35 | 1.0 |
 |Christian          | 1579.1 | -11.8| 42 | 1.0 |
 |Daniel Lupp        | 1563.9 | -45.5| 23 | 1.0 |
+|Temour             | 1563.7 | +13.7| 81 | 1.0 |
 |Phat               | 1558.6 | -41.4| 1 | 5.0 |
 |Daniel Årvik       | 1548.9 | -51.1| 5 | 2.5 |
-|Temour             | 1543.8 | -5.3| 78 | 1.0 |
 |Martin             | 1518.5 | -81.5| 5 | 2.5 |
+|Andreas            | 1501.0 | -99.0| 3 | 3.5 |
 |Vidar              | 1474.8 | -125.2| 3 | 3.5 |
 |Hans               | 1460.8 | -58.7| 15 | 1.5 |
 |TS                 | 1457.8 | -142.2| 1 | 5.0 |
@@ -36,6 +37,12 @@ PID = multiplier, it will decrease over the 15 first game
 #####Last 100 matches
 |Date              |Player 1   |Player 2 |Result| 
 |:------------------|:-------|:------|:------|
+| 6/22/2016 | Alex -5.5 | Jonas +5.5| 2 - 1 |
+| 6/22/2016 | Jonas +6.5 | Andreas -22.7| 2 - 0 |
+| 6/22/2016 | Alex +1.7 | Andreas -6.7| 2 - 0 |
+| 6/22/2016 | Jonas +0.2 | Temour -0.2| 2 - 1 |
+| 6/22/2016 | Alex -6.2 | Temour +6.2| 2 - 1 |
+| 6/22/2016 | Temour +13.9 | Andreas -69.6| 2 - 0 |
 | 6/18/2016 | Alex +5.8 | Temour -5.8| 3 - 0 |
 | 6/16/2016 | Temour -0.5 | Emma +0.5| 3 - 1 |
 | 6/16/2016 | Alex +1.1 | Emma -1.1| 3 - 0 |
@@ -130,9 +137,3 @@ PID = multiplier, it will decrease over the 15 first game
 | 4/27/2016 | Temour +2.3 | Jens -2.3| 1 - 2 |
 | 4/27/2016 | Janis -3.8 | Bår +3.8| 0 - 2 |
 | 4/27/2016 | Temour +5.5 | Bår -5.5| 1 - 2 |
-| 4/27/2016 | Jens -3.1 | Bår +3.1| 1 - 2 |
-| 4/27/2016 | Emma -39.5 | Christian +11.3| 0 - 2 |
-| 4/27/2016 | Emma -40.3 | Daniel Ramstad +10.1| 0 - 2 |
-| 4/27/2016 | Christian -4.9 | Daniel Ramstad +4.9| 1 - 2 |
-| 4/27/2016 | Emma -19.2 | Alex +3.8| 0 - 2 |
-| 4/27/2016 | Christian -3.8 | Alex +3.8| 0 - 2 |
