@@ -1,6 +1,6 @@
 ###OSI Squash Ranking
 
-Last update: 23.09.2016 17:10
+Last update: 28.09.2016 23:27
 
 Form: http://bit.ly/1U5gJyG
 
@@ -12,20 +12,43 @@ PID = multiplier, it will decrease over the 15 first game
 |Name              |Rank   |Trend |Total  |PID|
 |:------------------|:-------|:------|:------|:--|
 |Daniel R           | 1796.3 | +90.0| 7 | 2.0 |
-|Daniel L           | 1673.0 | +6.5 | 10 | 1.5 |
-|Jonas              | 1646.7 | -9.1| 10 | 1.5 |
-|Hien Minh          | 1604.0 | +4.0 | 5 | 2.5 |
-|Graeme             | 1601.8 | -58.2| 6 | 2.5 |
+|Daniel L           | 1681.5 | -5.1| 16 | 1.0 |
+|Hien Minh          | 1651.5 | +47.5| 10 | 1.5 |
+|Christoph          | 1648.0 | +48.0| 4 | 3.0 |
+|Temour             | 1623.3 | +34.7| 19 | 1.0 |
+|Jonas              | 1599.9 | -46.8| 15 | 1.5 |
+|Janis              | 1589.4 | +30.2| 6 | 2.5 |
 |Emma               | 1582.6 | +19.8| 6 | 2.5 |
 |Mathias            | 1580.1 | -19.9| 2 | 4.0 |
-|Temour             | 1573.1 | +78.1| 13 | 1.5 |
 |Christian          | 1558.2 | -41.8| 5 | 2.5 |
+|Graeme             | 1553.2 | -48.6| 11 | 1.5 |
+|Johannes           | 1504.4 | -95.6| 3 | 3.5 |
 |Konrad             | 1425.3 | -174.7| 5 | 2.5 |
 |Vidar              | 1423.1 | -176.9| 5 | 2.5 |
 
 #####Last 100 matches
 |Date              |Player 1   |Player 2 |Result| 
 |:------------------|:-------|:------|:------|
+| 9/28/2016 | Temour +11.8 | Daniel L -11.8| 2 - 1 |
+| 9/28/2016 | Janis +37.2 | Jonas -22.3| 2 - 0 |
+| 9/28/2016 | Graeme -20.9 | Janis +34.8| 0 - 2 |
+| 9/28/2016 | Daniel L +7.4 | Christoph -14.8| 2 - 1 |
+| 9/28/2016 | Temour +10.3 | Hien Minh -15.5| 2 - 1 |
+| 9/28/2016 | Daniel L +4.7 | Jonas -4.7| 2 - 1 |
+| 9/28/2016 | Janis -33.8 | Temour +11.3| 0 - 2 |
+| 9/28/2016 | Graeme -0.4 | Hien Minh +0.5| 1 - 2 |
+| 9/28/2016 | Temour +6.0 | Graeme -12.0| 2 - 1 |
+| 9/28/2016 | Christoph +5.9 | Graeme -3.4| 2 - 1 |
+| 9/28/2016 | Temour -4.7 | Christoph +12.5| 1 - 2 |
+| 9/28/2016 | Graeme -12.0 | Jonas +9.0| 1 - 2 |
+| 9/28/2016 | Temour +15.5 | Jonas -15.5| 2 - 1 |
+| 9/28/2016 | Christoph +44.4 | Jonas -13.3| 2 - 1 |
+| 9/28/2016 | Janis -31.9 | Hien Minh +18.2| 0 - 2 |
+| 9/28/2016 | Johannes -26.0 | Hien Minh +14.9| 0 - 2 |
+| 9/28/2016 | Johannes -24.0 | Janis +24.0| 0 - 1 |
+| 9/28/2016 | Daniel L -17.6 | Hien Minh +29.4| 1 - 2 |
+| 9/28/2016 | Daniel L +12.2 | Janis -40.8| 2 - 0 |
+| 9/28/2016 | Daniel L +13.7 | Johannes -45.6| 2 - 0 |
 | 9/22/2016 | Jonas +15.1 | Christian -25.2| 2 - 0 |
 | 9/22/2016 | Jonas +8.6 | Konrad -10.8| 2 - 0 |
 | 9/22/2016 | Christian +24.5 | Konrad -24.5| 2 - 0 |
