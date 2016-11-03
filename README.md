@@ -1,6 +1,6 @@
 ###OSI Squash Ranking
 
-Last update: 03.11.2016 08:16
+Last update: 03.11.2016 08:21
 
 Form: http://bit.ly/1U5gJyG
 
@@ -14,16 +14,16 @@ PID = multiplier, it will decrease over the 15 first game
 |Daniel L           | 1789.8 | +21.4| 34 | 1.0 |
 |Daniel R           | 1789.6 | +25.0| 13 | 1.5 |
 |Christoph          | 1720.3 | +46.4| 12 | 1.5 |
-|Jonas              | 1638.5 | -7.7| 30 | 1.0 |
+|Jonas              | 1654.8 | +22.6| 32 | 1.0 |
 |Temour             | 1624.7 | -14.9| 44 | 1.0 |
 |Christian          | 1615.5 | +0.5 | 22 | 1.0 |
-|Hien Minh          | 1613.3 | +3.8 | 21 | 1.0 |
 |Graeme             | 1602.4 | +18.0| 22 | 1.0 |
+|Hien Minh          | 1602.0 | +4.6 | 22 | 1.0 |
 |Janis              | 1547.9 | -21.1| 16 | 1.0 |
 |Mathias            | 1514.2 | -23.9| 8 | 2.0 |
 |Emma               | 1495.7 | -27.2| 23 | 1.0 |
 |Natsumi            | 1472.0 | -168.8| 6 | 2.5 |
-|Daniel H           | 1467.8 | -21.7| 7 | 2.0 |
+|Daniel H           | 1457.7 | -80.5| 8 | 2.0 |
 |Johannes           | 1437.9 | -42.0| 9 | 2.0 |
 |Vidar              | 1423.1 | -176.9| 5 | 2.5 |
 |Konrad             | 1417.9 | +8.0 | 22 | 1.0 |
@@ -31,6 +31,8 @@ PID = multiplier, it will decrease over the 15 first game
 #####Last 100 matches
 |Date              |Player 1   |Player 2 |Result| 
 |:------------------|:-------|:------|:------|
+| 11/3/2016 | Hien Minh -11.3 | Jonas +11.3| 0 - 2 |
+| 11/3/2016 | Daniel H -10.1 | Jonas +5.0| 0 - 2 |
 | 11/3/2016 | Konrad -1.7 | Daniel L +1.7| 0 - 2 |
 | 11/3/2016 | Graeme -5.0 | Daniel L +5.0| 0 - 2 |
 | 11/3/2016 | Temour -5.8 | Daniel L +5.8| 0 - 2 |
@@ -129,5 +131,3 @@ PID = multiplier, it will decrease over the 15 first game
 | 9/28/2016 | Daniel L +4.7 | Jonas -4.7| 2 - 1 |
 | 9/28/2016 | Janis -33.8 | Temour +11.3| 0 - 2 |
 | 9/28/2016 | Graeme -0.4 | Hien Minh +0.5| 1 - 2 |
-| 9/28/2016 | Temour +6.0 | Graeme -12.0| 2 - 1 |
-| 9/28/2016 | Christoph +5.9 | Graeme -3.4| 2 - 1 |
