@@ -1,6 +1,6 @@
 ###OSI Squash Ranking
 
-Last update: 12.11.2016 16:13
+Last update: 12.11.2016 16:16
 
 Form: http://bit.ly/1U5gJyG
 
@@ -14,19 +14,18 @@ PID = multiplier, it will decrease over the 15 first game
 |Daniel L           | 1789.8 | +21.4| 34 | 1.0 |
 |Daniel R           | 1789.6 | +25.0| 13 | 1.5 |
 |Christoph          | 1713.7 | +8.9 | 18 | 1.0 |
-|Jonas              | 1690.5 | +25.4| 38 | 1.0 |
-|Christian          | 1635.2 | +25.7| 28 | 1.0 |
+|Jonas              | 1687.1 | +22.0| 38 | 1.0 |
+|Christian          | 1633.4 | +23.9| 28 | 1.0 |
 |Temour             | 1630.7 | +0.0 | 50 | 1.0 |
 |Graeme             | 1602.4 | +18.0| 22 | 1.0 |
 |Hien Minh          | 1581.7 | -26.8| 28 | 1.0 |
-|Natusmi            | 1554.4 | -45.6| 1 | 5.0 |
 |Janis              | 1547.9 | -21.1| 16 | 1.0 |
 |Mathias            | 1514.2 | -23.9| 8 | 2.0 |
 |Emma               | 1495.7 | -27.2| 23 | 1.0 |
 |Daniel H           | 1457.7 | -80.5| 8 | 2.0 |
 |Johannes           | 1437.9 | -42.0| 9 | 2.0 |
-|Natsumi            | 1425.2 | -46.8| 11 | 1.5 |
 |Vidar              | 1423.1 | -176.9| 5 | 2.5 |
+|Natsumi            | 1419.4 | -39.6| 12 | 1.5 |
 |Konrad             | 1417.9 | +8.0 | 22 | 1.0 |
 
 #####Last 100 matches
@@ -38,9 +37,9 @@ PID = multiplier, it will decrease over the 15 first game
 | 11/12/2016 | Hien Minh -6.5 | Christoph +9.7| 0 - 2 |
 | 11/12/2016 | Natsumi -5.8 | Christoph +5.8| 0 - 2 |
 | 11/12/2016 | Temour -10.1 | Jonas +10.1| 0 - 2 |
-| 11/12/2016 | Christian -3.1 | Jonas +3.1| 1 - 2 |
+| 11/12/2016 | Christian -4.9 | Jonas +4.9| 1 - 2 |
 | 11/12/2016 | Hien Minh -9.1 | Jonas +9.1| 0 - 2 |
-| 11/12/2016 | Natusmi -45.6 | Jonas +9.1| 0 - 2 |
+| 11/12/2016 | Natsumi -5.8 | Jonas +3.8| 0 - 2 |
 | 11/12/2016 | Christian +12.0 | Temour -12.0| 2 - 0 |
 | 11/12/2016 | Hien Minh -4.9 | Temour +4.9| 1 - 2 |
 | 11/12/2016 | Natsumi -6.5 | Temour +4.3| 0 - 2 |
