@@ -1,6 +1,6 @@
 ###OSI Squash Ranking
 
-Last update: 12.11.2016 16:16
+Last update: 24.11.2016 12:38
 
 Form: http://bit.ly/1U5gJyG
 
@@ -11,26 +11,44 @@ PID = multiplier, it will decrease over the 15 first game
 #####Current ratings
 |Name              |Rank   |Trend |Total  |PID|
 |:------------------|:-------|:------|:------|:--|
-|Daniel L           | 1789.8 | +21.4| 34 | 1.0 |
-|Daniel R           | 1789.6 | +25.0| 13 | 1.5 |
-|Christoph          | 1713.7 | +8.9 | 18 | 1.0 |
-|Jonas              | 1687.1 | +22.0| 38 | 1.0 |
+|Daniel L           | 1807.5 | +17.8| 39 | 1.0 |
+|Daniel R           | 1797.5 | +7.9 | 18 | 1.0 |
+|Christoph          | 1715.4 | +10.8| 24 | 1.0 |
+|Jonas              | 1685.1 | -1.9| 43 | 1.0 |
 |Christian          | 1633.4 | +23.9| 28 | 1.0 |
-|Temour             | 1630.7 | +0.0 | 50 | 1.0 |
-|Graeme             | 1602.4 | +18.0| 22 | 1.0 |
+|Temour             | 1611.5 | -19.2| 55 | 1.0 |
+|Graeme             | 1609.8 | +7.4 | 27 | 1.0 |
 |Hien Minh          | 1581.7 | -26.8| 28 | 1.0 |
 |Janis              | 1547.9 | -21.1| 16 | 1.0 |
 |Mathias            | 1514.2 | -23.9| 8 | 2.0 |
 |Emma               | 1495.7 | -27.2| 23 | 1.0 |
 |Daniel H           | 1457.7 | -80.5| 8 | 2.0 |
-|Johannes           | 1437.9 | -42.0| 9 | 2.0 |
 |Vidar              | 1423.1 | -176.9| 5 | 2.5 |
 |Natsumi            | 1419.4 | -39.6| 12 | 1.5 |
 |Konrad             | 1417.9 | +8.0 | 22 | 1.0 |
+|Johannes           | 1413.0 | -24.8| 14 | 1.5 |
 
 #####Last 100 matches
 |Date              |Player 1   |Player 2 |Result| 
 |:------------------|:-------|:------|:------|
+| 11/24/2016 | Graeme +6.0 | Temour -6.0| 2 - 1 |
+| 11/24/2016 | Christoph +6.0 | Jonas -6.0| 2 - 1 |
+| 11/24/2016 | Graeme +5.0 | Johannes -7.6| 2 - 0 |
+| 11/24/2016 | Daniel L +8.2 | Christoph -8.2| 2 - 0 |
+| 11/24/2016 | Jonas +10.1 | Temour -10.1| 2 - 0 |
+| 11/24/2016 | Christoph +7.4 | Graeme -7.4| 2 - 0 |
+| 11/24/2016 | Daniel L +1.7 | Johannes -2.5| 2 - 0 |
+| 11/24/2016 | Christoph +1.7 | Temour -1.7| 2 - 1 |
+| 11/24/2016 | Johannes -5.8 | Christoph +3.8| 0 - 2 |
+| 11/24/2016 | Johannes -6.5 | Temour +4.3| 0 - 2 |
+| 11/24/2016 | Daniel R +9.1 | Christoph -9.1| 2 - 0 |
+| 11/24/2016 | Daniel R +5.8 | Temour -5.8| 2 - 0 |
+| 11/24/2016 | Jonas +1.7 | Graeme -1.7| 2 - 1 |
+| 11/24/2016 | Daniel L +7.4 | Jonas -7.4| 2 - 0 |
+| 11/24/2016 | Daniel L -5.5 | Graeme +5.5| 2 - 1 |
+| 11/24/2016 | Daniel R +1.7 | Johannes -2.5| 2 - 0 |
+| 11/24/2016 | Daniel R +0.4 | Jonas -0.2| 2 - 1 |
+| 11/24/2016 | Daniel L +6.0 | Daniel R -9.0| 2 - 1 |
 | 11/12/2016 | Jonas -6.0 | Christoph +6.0| 1 - 2 |
 | 11/12/2016 | Temour +12.8 | Christoph -12.8| 2 - 1 |
 | 11/12/2016 | Christian -0.2 | Christoph +0.2| 1 - 2 |
@@ -113,21 +131,3 @@ PID = multiplier, it will decrease over the 15 first game
 | 11/1/2016 | Jonas +10.1 | Emma -15.1| 2 - 0 |
 | 11/1/2016 | Natsumi -35.3 | Temour +10.1| 0 - 2 |
 | 11/1/2016 | Daniel L +8.2 | Christian -12.2| 2 - 0 |
-| 11/1/2016 | Jonas +12.7 | Temour -12.7| 2 - 0 |
-| 11/1/2016 | Konrad +20.9 | Johannes -34.8| 2 - 0 |
-| 11/1/2016 | Emma +26.3 | Natsumi -70.1| 2 - 0 |
-| 11/1/2016 | Daniel L +8.2 | Jonas -8.2| 2 - 0 |
-| 11/1/2016 | Christian +20.9 | Temour -13.9| 2 - 0 |
-| 11/1/2016 | Konrad +21.4 | Emma -21.4| 2 - 1 |
-| 11/1/2016 | Natsumi +40.8 | Johannes -24.5| 2 - 0 |
-| 11/1/2016 | Temour +3.6 | Christoph -5.4| 2 - 3 |
-| 11/1/2016 | Temour +13.7 | Daniel H -54.7| 3 - 0 |
-| 11/1/2016 | Christoph +16.7 | Daniel H -55.8| 3 - 0 |
-| 11/1/2016 | Temour +12.0 | Graeme -12.0| 2 - 0 |
-| 11/1/2016 | Temour +4.9 | Janis -7.4| 2 - 1 |
-| 11/1/2016 | Janis -19.1 | Graeme +19.1| 0 - 2 |
-| 11/1/2016 | Christoph +5.8 | Konrad -5.8| 2 - 0 |
-| 11/1/2016 | Christoph +16.3 | Christian -12.2| 2 - 0 |
-| 11/1/2016 | Christoph +13.0 | Emma -9.7| 2 - 0 |
-| 11/1/2016 | Christian +10.1 | Konrad -10.1| 2 - 0 |
-| 11/1/2016 | Christian +24.0 | Emma -18.0| 2 - 0 |
